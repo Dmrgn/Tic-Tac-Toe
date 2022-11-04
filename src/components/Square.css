@@ -1,0 +1,5 @@
+.square {
+    @apply border border-black aspect-square text-center flex items-center justify-center;
+    width: 100%;
+    heigth: 100%;
+}

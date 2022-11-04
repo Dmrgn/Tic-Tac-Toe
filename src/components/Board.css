@@ -1,0 +1,4 @@
+.board {
+    @apply flex flex-col aspect-square border-8 border-slate-700;
+    width: min(80vw, 800px);
+}
